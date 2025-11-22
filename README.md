@@ -1,1 +1,1 @@
-"This change is from Feature A branch"
+"Final merged content from both Feature A and Feature B branches."
